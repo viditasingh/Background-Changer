@@ -42,6 +42,8 @@ BgChanger/
 │   │-- index.js
 │-- public/
 │-- package.json
+│-- tailwind.config.js
+│-- vite.config.js
 │-- README.md
 ```
 
