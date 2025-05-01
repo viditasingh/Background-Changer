@@ -12,6 +12,9 @@ This is a simple React project that allows users to change the background color 
 - HTML
 - Tailwind.css
 
+- ## Screenshots
+![Background Changer Screenshot](https://i.ibb.co/LzmLyBVz/Screenshot-2025-05-01-150536.png)
+
 ## Installation
 1. Clone this repository:
    ```bash
